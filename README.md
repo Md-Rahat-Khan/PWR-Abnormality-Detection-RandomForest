@@ -1,10 +1,6 @@
 PWR-Abnormality-Detection-RandomForest
-Optimized Random Forest Classification for Abnormality Detection in Pressurized Water Reactors (PWRs)
 
 This repository contains the full implementation of the machine-learning framework used in the research paper:
-
-📄 “Optimized Random Forest Classification for Enhanced Abnormality Detection in Pressurized Water Reactors”
-(Paper written by Rehat)
 
 The project focuses on detecting bias and drift faults in PWR sensor readings (pressure, power, vibration).
 Machine Learning—specifically Random Forest with SMOTE and GridSearchCV optimization—was used to handle noisy data, imbalance, and complex reactor dynamics.
@@ -86,12 +82,6 @@ feature_importance.png
 learning_curve.png
 
 These were used directly in your publication.
-
-📜 Citation
-
-If you use this repository, cite your paper:
-
-Rehat, "Optimized Random Forest Classification for Enhanced Abnormality Detection in Pressurized Water Reactors", 2025.
 
 🤝 License
 
